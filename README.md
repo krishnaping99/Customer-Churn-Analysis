@@ -21,41 +21,41 @@ This Data Analysis project focuses on analyzing Customer Churn in a banking data
 
 Four main key concepts were tackled in this project i.e Data Transformation, Data Modelling, Data Analysis and Data Visualizations. Brief details of each key concept are as follows:
 
-### Data Transformation
-#### Data Cleaning:
+## Data Transformation
+### Data Cleaning:
 The dataset undergoes thorough data cleaning, including the removal of null values and the optimization of rows/columns.
 
-#### Date Master Table:
+### Date Master Table:
 A Date Master table is created using DAX Calendar functions and sub-functions like DAX month and year to facilitate time-based analysis.
 
-### Data Modelling
-#### Power Pivot:
+## Data Modelling
+### Power Pivot:
 Power Pivot is employed to establish cardinalities and relationships between tables, ensuring data coherence and enabling efficient querying.
 
-#### Star Schema:
+### Star Schema:
 A star schema is implemented for optimal data modeling, enhancing data retrieval speed and simplifying complex queries.
 
-### Data Analysis
-#### Calculations Table:
+## Data Analysis
+### Calculations Table:
 A dedicated "Calculations" table is generated to store essential measures and calculated values for in-depth analysis.
 
-#### DAX Functions:
+### DAX Functions:
 DAX (Data Analysis Expressions) functions are utilized for data analysis, with a specific focus on credit type-related calculations.
 
-#### Row Level Security:
+### Row Level Security:
 Row Level Security is implemented by creating roles based on geographical location, ensuring data access control.
 
-### Data Visualization
-#### Interactive Dashboards:
+## Data Visualization
+### Interactive Dashboards:
 Interactive dashboards and reports are crafted using Power BI's visualization techniques to offer a comprehensive view of the data.
 
-#### Power BI Visualizations:
+### Power BI Visualizations:
 Various Power BI visualizations are employed, including clustered bar graphs, column charts, donut charts, line graphs, matrices, Q & A AI visuals, and AI Smart narratives.
 
-#### Q&A AI Visuals:
+### Q&A AI Visuals:
 Q & A AI visuals are integrated to enable users to ask natural language questions and receive insights directly from the data.
 
-#### Data Slicers:
+### Data Slicers:
 Filters for data slicers are added to empower users to interactively explore and filter the data.
 
 ## Getting Started
