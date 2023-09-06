@@ -16,3 +16,9 @@ This Data Analysis project focuses on analyzing Customer Churn in a banking data
 * Learn how to apply row-level security to restrict data access based on user roles and geographical location.
 * Explore various data visualization techniques, including clustered bar graphs, column charts, donut charts, line graphs, matrices, and AI Smart narratives.
 * Gain hands-on experience in building interactive dashboards and reports to communicate data-driven findings effectively.
+
+## Key Concepts
+
+Four main key concepts were tackled in this project i.e Data Transformation, Data Modelling, Data Analysis and Data Visualizations. Brief details of each key concept are as follows:
+
+### Data Transformation:
