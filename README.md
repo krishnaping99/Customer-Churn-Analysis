@@ -4,7 +4,7 @@
 
 This Data Analysis project focuses on analyzing Customer Churn in a banking dataset using Power BI as the primary analytical and visualizing tool. Understanding the reasons behind customer attrition is of paramount importance to businesses, enabling them to implement effective strategies to retain their customer base. Throughout this project, we will delve into the dataset, undertake data transformation and cleansing, construct data models, scrutinize customer behavior, and present our findings visually through Power BI.
 
-## Learning Objectives
+## Project Objectives
 
 * Cleaning and preprocess raw data, including handling missing values, duplicates, and optimizing data for analysis.
 * Implemented data modeling techniques such as creating cardinalities, establishing relationships between tables, and implementing star schema structures.
