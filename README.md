@@ -17,6 +17,10 @@ This Data Analysis project focuses on analyzing Customer Churn in a banking data
 * Explore various data visualization techniques, including clustered bar graphs, column charts, donut charts, line graphs, matrices, and AI Smart narratives.
 * Gain hands-on experience in building interactive dashboards and reports to communicate data-driven findings effectively.
 
+## Tools Used
+
+**Microsoft Power BI** was used for data analysis and data visualization.
+
 ## Key Concepts
 
 Four main key concepts were tackled in this project i.e Data Transformation, Data Modelling, Data Analysis and Data Visualizations. Brief details of each key concept are as follows:
