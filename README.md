@@ -6,16 +6,15 @@ This Data Analysis project focuses on analyzing Customer Churn in a banking data
 
 ## Learning Objectives
 
-* Gain a solid understanding of what customer churn is and why it's critical for businesses, extract actionable business insights and recommend strategies for reducing churn.
-* Learn how to clean and preprocess raw data, including handling missing values, duplicates, and optimizing data for analysis.
-* Explore data modeling techniques such as creating cardinalities, establishing relationships between tables, and implementing star schema structures.
-* Master advanced Data Analysis Expressions (DAX) functions for performing complex calculations and aggregations.
-* Learn how to create calculated measures to derive meaningful insights and metrics from the dataset.
-* Understand how to add data slicers and filters for interactive data exploration and visualization.
-* Discover how to integrate Q & A AI visuals for natural language-driven insights and queries.
-* Learn how to apply row-level security to restrict data access based on user roles and geographical location.
-* Explore various data visualization techniques, including clustered bar graphs, column charts, donut charts, line graphs, matrices, and AI Smart narratives.
-* Gain hands-on experience in building interactive dashboards and reports to communicate data-driven findings effectively.
+* Cleaning and preprocess raw data, including handling missing values, duplicates, and optimizing data for analysis.
+* Implemented data modeling techniques such as creating cardinalities, establishing relationships between tables, and implementing star schema structures.
+* Advanced Data Analysis Expressions (DAX) functions were applied for performing complex calculations and aggregations.
+* Created calculated measures to derive meaningful insights and metrics from the dataset.
+* Utilized data slicers and filters to facilitate interactive data exploration and enhance visualization capabilities.
+* Integrated Q & A AI visuals for natural language-driven insights and queries.
+* Applied row-level security to restrict data access based on user roles and geographical location.
+* Multiple data visualization techniques were implemented, including clustered bar graphs, column charts, donut charts, line graphs, matrices, and AI Smart narratives.
+* Built interactive dashboards and reports to communicate data-driven findings effectively.
 
 ## Tools Used
 
@@ -62,7 +61,7 @@ Q & A AI visuals are integrated to enable users to ask natural language question
 ### Data Slicers:
 Filters for data slicers are added to empower users to interactively explore and filter the data.
 
-## Getting Started
+## Usage
 To get started with this project, follow these steps:
 1. Clone the repository to your local machine.
 2. Install Power BI Desktop from the official Power BI website.
