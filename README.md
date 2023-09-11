@@ -6,15 +6,15 @@ This Data Analysis project focuses on analyzing Customer Churn in a banking data
 
 ## Project Objectives
 
-* Cleaning and preprocess raw data, including handling missing values, duplicates, and optimizing data for analysis.
-* Implemented data modeling techniques such as creating cardinalities, establishing relationships between tables, and implementing star schema structures.
-* Advanced Data Analysis Expressions (DAX) functions were applied for performing complex calculations and aggregations.
-* Created calculated measures to derive meaningful insights and metrics from the dataset.
-* Utilized data slicers and filters to facilitate interactive data exploration and enhance visualization capabilities.
-* Integrated Q & A AI visuals for natural language-driven insights and queries.
-* Applied row-level security to restrict data access based on user roles and geographical location.
-* Multiple data visualization techniques were implemented, including clustered bar graphs, column charts, donut charts, line graphs, matrices, and AI Smart narratives.
-* Built interactive dashboards and reports to communicate data-driven findings effectively.
+* Cleaning and preprocessing raw data, including handling missing values, duplicates, and optimizing data for analysis.
+* Implementing data modeling techniques such as creating cardinalities, establishing relationships between tables, and implementing star schema structures.
+* Applying advanced Data Analysis Expressions (DAX) functions for performing complex calculations and aggregations.
+* Creating calculated measures to derive meaningful insights and metrics from the dataset.
+* Utilizing data slicers and filters to facilitate interactive data exploration and enhance visualization capabilities.
+* Integrating Q & A AI visuals for natural language-driven insights and queries.
+* Applying row-level security to restrict data access based on user roles and geographical location.
+* Implementing multiple data visualization techniques, including clustered bar graphs, column charts, donut charts, line graphs, matrices, and AI Smart narratives.
+* Building interactive dashboards and reports to communicate data-driven findings effectively.
 
 ## Tools Used
 
